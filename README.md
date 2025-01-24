@@ -6,3 +6,5 @@ parsing device trees.
 It's available in Debian and Ubuntu as libofapi(-dev).
 
 Pommed and other applications bundle it.
+
+Parse hardware on POWER, SPARC and ARM devices supporting device trees.
